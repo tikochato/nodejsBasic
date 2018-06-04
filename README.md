@@ -16,3 +16,8 @@ npm install
 node server.js
 ```
 
+or  Run Server in Dev Mode (hot reload)
+
+```bash
+npm run dev
+```
