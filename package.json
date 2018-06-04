@@ -1,0 +1,27 @@
+{
+  "name": "articles-app",
+  "version": "1.0.0",
+  "description": "Read, create and drop articles.",
+  "main": "server.js",
+  "scripts": {
+    "dev": "nodemon server.js"
+  },
+  "keywords": [
+    "Express",
+    "RestAPI",
+    "MongoDB",
+    "Mongoose",
+    "Articles"
+  ],
+  "author": "guntidaor1",
+  "license": "MIT",
+  "dependencies": {
+    "body-parser": "^1.18.2",
+    "cors": "^2.8.4",
+    "express": "^4.16.3",
+    "mongoose": "^5.0.11"
+  },
+  "devDependencies": {
+    "nodemon": "^1.17.5"
+  }
+}
